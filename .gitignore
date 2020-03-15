@@ -1,0 +1,34 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/webproject/node_modules
+/webproject/.pnp
+/webproject/.pnp.js
+
+# testing
+/webproject/coverage
+
+# production
+/webproject/build
+/webproject/dist
+
+# misc
+/webproject/.DS_Store
+/webproject/.env.local
+/webproject/.env.development.local
+/webproject/.env.test.local
+/webproject/.env.production.local
+
+/webproject/npm-debug.log*
+/webproject/yarn-debug.log*
+/webproject/yarn-error.log*
+
+# temp files
+/webproject/package-lock.json
+/webproject/yarn.lock
+
+# pycharm index file
+.idea
+
+# database
+db.sqlite3
