@@ -10,6 +10,6 @@
 
 4、安装python和Django，安装方法：https://blog.csdn.net/sysukehan/article/details/104882586;
 
-5、在根目录下启动命令行，执行python manage.py runserver 80，用浏览器打开http://127.0.0.1:80可以看到web界面。
+5、在根目录下启动命令行，执行python manage.py runserver 80，用浏览器打开http://127.0.0.1:80 就可以看到web界面了。
 
 因为项目中已经包含了react编译后的产物，所以如果不想编译react项目，clone项目到本地后从第4步开始做起就可以了。
