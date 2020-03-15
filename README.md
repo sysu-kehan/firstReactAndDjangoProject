@@ -8,7 +8,7 @@
 
 3、进入webproject目录，命令行执行npm install，安装完成后执行npm run compile
 
-4、安装python和Django；
+4、安装python和Django，安装方法：https://blog.csdn.net/sysukehan/article/details/104882586;
 
 5、在根目录下启动命令行，执行python manage.py runserver 80，用浏览器打开http://127.0.0.1:80可以看到web界面。
 
