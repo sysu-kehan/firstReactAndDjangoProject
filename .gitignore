@@ -30,5 +30,8 @@
 # pycharm index file
 .idea
 
+# python compile files
+*.pyc
+
 # database
 db.sqlite3
